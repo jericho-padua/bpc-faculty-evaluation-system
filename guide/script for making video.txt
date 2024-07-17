@@ -1,0 +1,78 @@
+How to use the Faculty Evaluation System?
+
+The students must be register first! 
+
+Here's how, the student must register.
+Step 1: Go to "Login Form" and then click "Register here" below.
+Step 2: Input your account details based on the registration form.
+Step 3: Click "Submit" once you have finished fill-up the registration.
+After that, wait for the Admin's approval if you are really a student.
+
+The admin has an generated email so that they will notify through email if the registration of students has been approved. 
+
+   
+First, Login Admin User
+Go to "Student" on Navbar and select "Unverified Students" 
+Click "Confirm" if these are really students.
+Note: It also has a button to admit all students so you don't have to confirm one by one
+  
+Here's the example of how the admin can notify students using email:
+
+Now that we have the students to answer,  
+
+Step 4: Login Admin User 
+Step 5: Go to "Academic Year" on Navbar and ADD new "Academic Year" 
+Step 6: Now, encode the exact year of evaluation
+Step 7: Submit "New Academic Year" Button
+You have now added an Academic Year!
+
+Step 8: Go to "Evaluation" on Navbar and ADD "New Evaluation"
+Step 9: Encode the subject, instructor, and section that will be evaluate.
+Step 10: Submit "New Evaluation" Button
+   
+You have now added an Evaluation!
+
+Now, the students can answer the evaluation.
+
+Here's how the students answer the evaluation to the instructor/faculty.
+
+Step 11: Login your email and password on the input box
+Step 12: Click Login Button
+
+Dashboard: If successful, this will be the interface. In the dashboard, you can see the number of your answer evaluated in the faculty.
+
+Step 13: Go to "Evaluate Faculty and select subject and automatically which instructor with your subjects.
+
+Step 14: Click "Proceed" Button
+
+Step 15: Once there, you will see the evaluation tool where items are grouped into four categories: 
+A. Attitude Toward Students, B. Subject Matter Presentation, C. Classroom Management, D. Etiquette
+
+It also has a clear button if you want to reset the radio button checked.
+
+Step 16: To start the evaluation, simply tick the rating on the side of each statement. Step 17:When you are done. click Submit. 
+
+You will be prompted by the system to compl ete your answers.
+
+You have now answered successfully!
+
+Step 18: Go to "Evaluate Faculty Comments and select subject and automatically which instructor with your subjects  
+
+Step 19: Click "Proceed" Button
+
+Step 19: Once there, you can now give comment based on your answer to your teacher.
+
+
+Step 20: When you are done. Click Submit button.
+
+To know the average answer of students, login admin user.
+after login admin user, go to "Evaluation Results Student" and click "View" button
+
+these are the results of faculty evaluation based on the answer of students.
+
+
+
+
+
+
+

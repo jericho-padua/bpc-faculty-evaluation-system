@@ -1,0 +1,100 @@
+Array
+(
+    [0] => Array
+        (
+            [input_name] => A1
+            [input_value] => 1
+        )
+
+    [1] => Array
+        (
+            [input_name] => A2
+            [input_value] => 1
+        )
+
+    [2] => Array
+        (
+            [input_name] => A3
+            [input_value] => 1
+        )
+
+    [3] => Array
+        (
+            [input_name] => A4
+            [input_value] => 1
+        )
+
+    [4] => Array
+        (
+            [input_name] => B1
+            [input_value] => 1
+        )
+
+    [5] => Array
+        (
+            [input_name] => B2
+            [input_value] => 1
+        )
+
+    [6] => Array
+        (
+            [input_name] => B3
+            [input_value] => 1
+        )
+
+    [7] => Array
+        (
+            [input_name] => B4
+            [input_value] => 1
+        )
+
+    [8] => Array
+        (
+            [input_name] => B5
+            [input_value] => 1
+        )
+
+    [9] => Array
+        (
+            [input_name] => C1
+            [input_value] => 1
+        )
+
+    [10] => Array
+        (
+            [input_name] => C2
+            [input_value] => 1
+        )
+
+    [11] => Array
+        (
+            [input_name] => C3
+            [input_value] => 1
+        )
+
+    [12] => Array
+        (
+            [input_name] => D1
+            [input_value] => 1
+        )
+
+    [13] => Array
+        (
+            [input_name] => D2
+            [input_value] => 1
+        )
+
+    [14] => Array
+        (
+            [input_name] => D3
+            [input_value] => 1
+        )
+
+    [15] => Array
+        (
+            [input_name] => D4
+            [input_value] => 1
+        )
+
+)
+Script executed successfully
